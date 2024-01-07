@@ -1,0 +1,12 @@
+                                     			REPORT
+						    ---------------
+        There are 15 schools in the area with a total of 39170 students in both government and independent sector.They have spent a total of $24,649,428.00.
+It has been found that 72.202% of students passed for both reading and maths.
+  On the basis of performance,Griffin High School has come in the top with 81.335% overall pass which is an independent school and Hernandez High school(government) is in the bottom with 66.364% overall pass.School performances by year 2009,2010,2011,2012 also analysed.
+  Finally performance based on the school spending per student,school size(total students) and type (government/independent) also carried out.
+
+						     CONCLUSIONS
+1)School budget per student not really increase their overall performance in reading and maths.
+2)Small sized schools(>1000) has performed well compared to medium and large size schools.
+
+               
